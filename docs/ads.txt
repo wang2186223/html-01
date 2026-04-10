@@ -1,4 +1,5 @@
 netlink.vn, 93656639, DIRECT
+google.com, pub-6103656080213498, DIRECT, f08c47fec0942fa0
 google.com, pub-4497969462325999, DIRECT, f08c47fec0942fa0
 google.com, pub-4903152080848459, DIRECT, f08c47fec0942fa0
 google.com, pub-2459857618473706, DIRECT, f08c47fec0942fa0
